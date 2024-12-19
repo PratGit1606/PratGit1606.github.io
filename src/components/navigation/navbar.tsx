@@ -13,7 +13,6 @@ import {
   NavigationMenuTrigger,
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu";
-import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/nextjs";
 import { Separator } from "@/components/ui/separator";
 import { Button } from "../ui/button";
 
